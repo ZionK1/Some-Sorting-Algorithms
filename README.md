@@ -1,10 +1,9 @@
-# Assignment 3 Sorting: Putting your affairs in order
+# Sorting Algorithms
 
 ## Description:
-	This program contains implementations of Shell, Batcher, Heap, and Quick sorts 
-	based on provided pseudocode in C. A test harness is implemented to test each
-	of these sorts by creating an array of pseudorandom elements and running each
-	sort on it.
+	This project contains implementations of Shell, Batcher, Heap, and Quick sorts 
+	written in C. A test harness is implemented to test each of these sorts by 
+ 	creating an array of pseudorandom elements and running each sort on it.
 	
 ## Build:
 
